@@ -1,7 +1,8 @@
-# Obsidian workspace files (per-device, change frequently)
+# Obsidian workspace/UI state files (per-device, change frequently)
 .obsidian/workspace.json
 .obsidian/workspaces.json
 .obsidian/workspace-mobile.json
+.obsidian/graph.json
 
 # Obsidian trash
 .trash/
