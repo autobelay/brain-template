@@ -1,0 +1,13 @@
+{
+  "strictLineBreaks": false,
+  "showFrontmatter": true,
+  "defaultViewMode": "source",
+  "livePreview": true,
+  "showLineNumber": false,
+  "spellcheck": true,
+  "readableLineLength": true,
+  "tabSize": 2,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Inbox",
+  "attachmentFolderPath": "Attachments"
+}
